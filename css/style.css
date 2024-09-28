@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --background: #303030;
+    --backbackground: black;
+    --menu: #202020;
+    --link: white;
+    --visited: white;
+    --hover: #505050;
+}
+
+a:link{
+    color: var(--link);
+}
+
+a:visited{
+    color: var(--visited);
+}
+
+html, body{
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--backbackground);
+    color: white;
+    font-family: Courier, monospace;
+    overflow: hidden;
+}
+
+body{
+    max-width: 1080px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: var(--background);
+}
+
+/* LOGO */
+
+.logo{
+    height: 50px;
+}
+
+.logo img{
+    height: 40px;
+    padding: 5px;
+}
+
+#github, #wca{
+    height: 30px;
+    padding: 10px;
+}
+
+/* HEADER */
+
+header{
+    background-color: var(--menu);
+    display: flex;
+}
+
+header nav{
+    width: 980px;
+    margin-right: 50px;
+}
+
+ul.menu, .menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    height: 50px;
+    text-align: center;
+}
+
+.menu li{
+    width: 150px;
+    position: relative;
+    display: inline-block;
+}
+
+.menu li a{
+    display: block;
+    width: 150px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    background-color: var(--menu);
+}
+
+.menu li a:hover{
+    background-color: var(--hover);
+}
+
+.menu li ul{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 50px;
+}
+
+.menu li:hover ul{
+    display: block;
+}
+
+.menu li ul a{
+    background-color: var(--menu);
+}
+
+/* MAIN */
+
+main{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+/* FOOTER */
+
+footer{
+    height: 50px;
+    background-color: var(--menu);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*position: relative;*/
+    /*bottom: 0;*/
+}
+
+/* TABLE */
+
+table{
+    margin: 2em;
+}
+
+table, th, td{
+    margin-left: auto;
+    margin-right: auto;
+    padding: .5em;
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table img{
+    padding: 0.3em;
+    height: 96px;
+}
+
+#home{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#home a{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1.5em;
+    margin: 1em;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    background-color: var(--menu);
+    /*flex-basis: 15%;*/
+}
