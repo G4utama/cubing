@@ -27,14 +27,14 @@ html, body{
     background-color: var(--backbackground);
     color: white;
     font-family: Courier, monospace;
-    overflow: hidden;
+    overflow-y: hidden;
 }
 
 body{
+    height: 100vh;
     max-width: 1080px;
     display: flex;
     flex-direction: column;
-    height: 100vh;
     background-color: var(--background);
 }
 
@@ -119,20 +119,19 @@ main{
 /* FOOTER */
 
 footer{
-    height: 50px;
+    /*height: 50px;*/
     background-color: var(--menu);
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    /*position: relative;*/
-    /*bottom: 0;*/
 }
 
 /* TABLE */
 
 table{
     margin: 2em;
+    margin-bottom: 10em;
 }
 
 table, th, td{
