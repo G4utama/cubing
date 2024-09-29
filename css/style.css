@@ -153,6 +153,7 @@ table img{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    padding: 5em 0;
 }
 
 #home a{
