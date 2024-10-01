@@ -9,7 +9,8 @@
     --menu: #202020;
     --link: white;
     --visited: white;
-    --hover: #505050;
+    --hover: #404040;
+    --click: #505050;
 }
 
 a:link{
@@ -94,6 +95,10 @@ ul.menu, .menu ul{
     background-color: var(--hover);
 }
 
+.menu li a:active{
+    background-color: var(--click);
+}
+
 .menu li ul{
     display: none;
     position: absolute;
@@ -166,4 +171,12 @@ table img{
     text-align: center;
     background-color: var(--menu);
     /*flex-basis: 15%;*/
+}
+
+#home a:hover{
+    background-color: var(--hover);
+}
+
+#home a:active{
+    background-color: var(--click);
 }
