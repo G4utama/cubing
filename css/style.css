@@ -180,3 +180,28 @@ table img{
 #home a:active{
     background-color: var(--click);
 }
+
+h1{
+    padding: 1em;
+    text-align: center;
+}
+
+h2{
+    padding: 1em;
+}
+
+.notation{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.notation div{
+    padding: 0.5em;
+}
+
+hr{
+    margin: 1em;
+}
