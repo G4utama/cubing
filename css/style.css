@@ -11,6 +11,13 @@
     --visited: white;
     --hover: #404040;
     --click: #505050;
+    --black: rgb(0,0,0);
+    --white: rgb(255,255,255);
+    --yellow: rgb(255,255,0);
+    --red: rgb(255,0,0);
+    --orange: rgb(255,127,0);
+    --green: rgb(0,255,0);
+    --blue: rgb(0,0,255);
 }
 
 a:link{
@@ -119,6 +126,7 @@ ul.menu, .menu ul{
 main{
     height: 100vh;
     overflow-y: auto;
+    padding: 2em;
 }
 
 /* FOOTER */
@@ -182,26 +190,57 @@ table img{
 }
 
 h1{
-    padding: 1em;
     text-align: center;
+    padding: 1em 0;
 }
 
 h2{
-    padding: 1em;
+    padding: 1em 0 0.5em 0;
+}
+
+p{
+    padding: 0.5em 0;
 }
 
 .notation{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    /*justify-content: center;*/
     align-items: center;
     text-align: center;
+    padding: 0.5em 0;
 }
 
 .notation div{
-    padding: 0.5em;
+    padding: 0.5em 0;
 }
 
-hr{
-    margin: 1em;
+.notation img{
+    height: 96px;
+}
+
+/* FACE COLOR */
+
+#U{
+    color: var(--white);
+}
+
+#D{
+    color: var(--yellow);
+}
+
+#R{
+    color: var(--red);
+}
+
+#L{
+    color: var(--orange);
+}
+
+#F{
+    color: var(--green);
+}
+
+#B{
+    color: var(--blue);
 }
