@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Swap U",
+        "image": ["image/2x2-PBL/swapF-U.png", "image/2x2-PBL/solved-D.png"],
+        "algorithm": "R' F R' F2 R U' R' F2 R2 U'"
+    },
+    {
+        "name": "Swap D",
+        "image": ["image/2x2-PBL/solved-U.png", "image/2x2-PBL/swapR-D.png"],
+        "algorithm": "R' U R' U' R' F R2 U' R' U' R U R' F' R2"
+    },
+    {
+        "name": "Diag U",
+        "image": ["image/2x2-PBL/diagR-U.png", "image/2x2-PBL/solved-D.png"],
+        "algorithm": "R U' R' U' F2 U' R U R' D R2"
+    },
+    {
+        "name": "Diag D",
+        "image": ["image/2x2-PBL/solved-U.png", "image/2x2-PBL/diagR-D.png"],
+        "algorithm": "R U' R' U' F2 U' R U R' D F2 R2"
+    },
+    {
+        "name": "Swap F<br>Swap F",
+        "image": ["image/2x2-PBL/swapF-U.png", "image/2x2-PBL/swapF-D.png"],
+        "algorithm": "R2 U' R2 U2 F2 U' R2"
+    },
+    {
+        "name": "Swap B<br>Swap B",
+        "image": ["image/2x2-PBL/swapB-U.png", "image/2x2-PBL/swapB-D.png"],
+        "algorithm": "R2 U' B2 U2 R2 U' R2"
+    },
+    {
+        "name": "Diag L<br>Diag L",
+        "image": ["image/2x2-PBL/diagL-U.png", "image/2x2-PBL/diagL-D.png"],
+        "algorithm": "R2 F2 R2"
+    },
+    {
+        "name": "Swap B<br>Diag L",
+        "image": ["image/2x2-PBL/swapB-U.png", "image/2x2-PBL/diagL-D.png"],
+        "algorithm": "R U' R F2 R' U R'"
+    },
+    {
+        "name": "Diag L<br>Swap B",
+        "image": ["image/2x2-PBL/diagL-U.png", "image/2x2-PBL/swapB-D.png"],
+        "algorithm": "R' D R' F2 R D' R"
+    }
+]
