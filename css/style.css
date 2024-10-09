@@ -7,14 +7,26 @@
     --background: #303030;
     --backbackground: black;
     --menu: #202020;
-    --link: white;
-    --visited: white;
+    --link: rgb(0,191,0);
+    --visited: rgb(191,0,0);
     --hover: #404040;
     --click: #505050;
+    /* COLOR */
+    --black: rgb(0,0,0);
+    --white: rgb(255,255,255);
+    --yellow: rgb(255,255,0);
+    --red: rgb(255,0,0);
+    --orange: rgb(255,127,0);
+    --green: rgb(0,255,0);
+    --blue: rgb(0,0,255);
 }
 
 a:link{
     color: var(--link);
+}
+
+a:visited{
+    color: var(--visited);
 }
 
 a:visited{
@@ -119,6 +131,7 @@ ul.menu, .menu ul{
 main{
     height: 100vh;
     overflow-y: auto;
+    padding: 2em;
 }
 
 /* FOOTER */
@@ -179,4 +192,78 @@ table img{
 
 #home a:active{
     background-color: var(--click);
+}
+
+h1{
+    text-align: center;
+    padding: 1em 0;
+}
+
+h2{
+    text-align: center;
+    padding: 1em 0 0.5em 0;
+}
+
+h3{
+    padding: 1em 0 0 0;
+}
+
+p{
+    padding: 0.5em 0;
+}
+
+hr{
+    border: 1px solid var(--white);
+    margin: 1em 0;
+}
+
+.alg{
+    float: right;
+}
+
+.notation{
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: center;*/
+    align-items: center;
+    text-align: center;
+    padding: 0.5em 0;
+}
+
+.notation div{
+    padding: 0.5em 0;
+}
+
+.notation img{
+    height: 96px;
+}
+
+/* FACE COLOR */
+
+#U{
+    color: var(--white);
+}
+
+#D{
+    color: var(--yellow);
+}
+
+#R{
+    color: var(--red);
+}
+
+#L{
+    color: var(--orange);
+}
+
+#F{
+    color: var(--green);
+}
+
+#B{
+    color: var(--blue);
+}
+
+ol{
+    padding: 0.5em 2em;
 }
