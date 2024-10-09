@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Antisune",
+        "image": "image/2x2-OLL/Antisune.png",
+        "algorithm": "R U2 R' U' R U' R'"
+    },
+    {
+        "name": "H",
+        "image": "image/2x2-OLL/H.png",
+        "algorithm": "R2 U2 R' U2 R2"
+    },
+    {
+        "name": "L",
+        "image": "image/2x2-OLL/L.png",
+        "algorithm": "F R' F' R U R U' R'"
+    },
+    {
+        "name": "Pi",
+        "image": "image/2x2-OLL/Pi.png",
+        "algorithm": "R U2 R2 U' R2 U' R2 U2 R"
+    },
+    {
+        "name": "Sune",
+        "image": "image/2x2-OLL/Sune.png",
+        "algorithm": "R U R' U R U2 R'"
+    },
+    {
+        "name": "T",
+        "image": "image/2x2-OLL/T.png",
+        "algorithm": "R U R' U' R' F R F'"
+    },
+    {
+        "name": "U",
+        "image": "image/2x2-OLL/U.png",
+        "algorithm": "F R U R' U' F'"
+    }
+]
