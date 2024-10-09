@@ -200,6 +200,7 @@ h1{
 }
 
 h2{
+    text-align: center;
     padding: 1em 0 0.5em 0;
 }
 
@@ -214,6 +215,10 @@ p{
 hr{
     border: 1px solid var(--white);
     margin: 1em 0;
+}
+
+.alg{
+    float: right;
 }
 
 .notation{
