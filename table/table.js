@@ -1,5 +1,6 @@
 const tableData = {
-    sq1_PLL: 'table/sq1-PLL.json'
+    '_3x3-OLL': 'table/3x3-OLL.json',
+    '_SQ1-PLL': 'table/SQ1-PLL.json'
 };
 
 Object.keys(tableData).forEach(tableId => {
