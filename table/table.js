@@ -1,5 +1,6 @@
 const tableData = {
     '_3x3-OLL': 'table/3x3-OLL.json',
+    '_3x3-PLL': 'table/3x3-PLL.json',
     '_SQ1-PLL': 'table/SQ1-PLL.json'
 };
 

@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Aa",
+        "image": "image/3x3-PLL/Aa.png",
+        "algorithm": "x R' U R' D2 R U' R' D2 R2"
+    },
+    {
+        "name": "Ab",
+        "image": "image/3x3-PLL/Ab.png",
+        "algorithm": "x R2 D2 R U R' D2 R U' R"
+    },
+    {
+        "name": "E",
+        "image": "image/3x3-PLL/E.png",
+        "algorithm": "x' R U' R' D R U R' D' R U R' D R U' R' D'"
+    },
+    {
+        "name": "F",
+        "image": "image/3x3-PLL/F.png",
+        "algorithm": "R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R"
+    },
+    {
+        "name": "Ga",
+        "image": "image/3x3-PLL/Ga.png",
+        "algorithm": "R2 U R' U R' U' R U' R2 U' D R' U R D'"
+    },
+    {
+        "name": "Gb",
+        "image": "image/3x3-PLL/Gb.png",
+        "algorithm": "R' U' R U D' R2 U R' U R U' R U' R2 D"
+    },
+    {
+        "name": "Gc",
+        "image": "image/3x3-PLL/Gc.png",
+        "algorithm": "R2 U' R U' R U R' U R2 U D' R U' R' D"
+    },
+    {
+        "name": "Gd",
+        "image": "image/3x3-PLL/Gd.png",
+        "algorithm": "R U R' U' D R2 U' R U' R' U R' U R2 D'"
+    },
+    {
+        "name": "H",
+        "image": "image/3x3-PLL/H.png",
+        "algorithm": "M2 U M2 U2 M2 U M2"
+    },
+    {
+        "name": "Ja",
+        "image": "image/3x3-PLL/Ja.png",
+        "algorithm": "x R2 F R F' R U2 r' U r U2"
+    },
+    {
+        "name": "Jb",
+        "image": "image/3x3-PLL/Jb.png",
+        "algorithm": "R U R' F' R U R' U' R' F R2 U' R' U'"
+    },
+    {
+        "name": "Na",
+        "image": "image/3x3-PLL/Na.png",
+        "algorithm": "R U R' U Ja U2 R U' R'"
+    },
+    {
+        "name": "Nb",
+        "image": "image/3x3-PLL/Nb.png",
+        "algorithm": "R' U' R U' Jb U R' U R"
+    },
+    {
+        "name": "Ra",
+        "image": "image/3x3-PLL/Ra.png",
+        "algorithm": "R U' R' U' R U R D R' U' R D' R' U2 R' U'"
+    },
+    {
+        "name": "Rb",
+        "image": "image/3x3-PLL/Rb.png",
+        "algorithm": "R2 F R U R U' R' F' R U2 R' U2 R U"
+    },
+    {
+        "name": "T",
+        "image": "image/3x3-PLL/T.png",
+        "algorithm": "R U R' U' R' F R2 U' R' U' R U R' F'"
+    },
+    {
+        "name": "Ua",
+        "image": "image/3x3-PLL/Ua.png",
+        "algorithm": "M2 U M U2 M' U M2"
+    },
+    {
+        "name": "Ub",
+        "image": "image/3x3-PLL/Ub.png",
+        "algorithm": "M2 U' M U2 M' U' M2"
+    },
+    {
+        "name": "V",
+        "image": "image/3x3-PLL/V.png",
+        "algorithm": "R' U R' U' R D' R' D R' U D' R2 U' R2 D R2"
+    },
+    {
+        "name": "Y",
+        "image": "image/3x3-PLL/Y.png",
+        "algorithm": "F R U' R' U' R U R' F' R U R' U' R' F R F'"
+    },
+    {
+        "name": "Z",
+        "image": "image/3x3-PLL/Z.png",
+        "algorithm": "M' U M2 U M2 U M' U2 M2 U'"
+    }
+]
