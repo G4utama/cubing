@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Solved",
+        "image": "image/SQ1-CP+DF/solved.png",
+        "algorithm": "(1,0)/(0,3)/(3,0)/(-1,-1)/(-2,1)/(0,-3)/"
+    },
+    {
+        "name": "Double",
+        "image": "image/SQ1-CP+DF/double.png",
+        "algorithm": "(1,0)/(-4,-3)/(-3,0)/(-3,-3)/(-3,0)/(-2,-3)/"
+    },
+    {
+        "name": "Swap R",
+        "image": "image/SQ1-CP+DF/swapR.png",
+        "algorithm": "(1,0)/(2,-1)/(0,-3)/(3,0)/(-3,0)/(-2,4)/"
+    },
+    {
+        "name": "Swap L",
+        "image": "image/SQ1-CP+DF/swapL.png",
+        "algorithm": "(1,0)/(3,0)/(3,-3)/(-1,2)/(1,-2)/(3,0)/"
+    },
+    {
+        "name": "Swap F",
+        "image": "image/SQ1-CP+DF/swapF.png",
+        "algorithm": "(0,-1)/(4,-2)/(-3,0)/(0,3)/(0,-3)/(-1,2)/"
+    },
+    {
+        "name": "Swap B",
+        "image": "image/SQ1-CP+DF/swapB.png",
+        "algorithm": "(4,-3)/(-3,0)/(-1,2)/(1,-2)/(-3,3)/(-3,0)/"
+    }
+]
