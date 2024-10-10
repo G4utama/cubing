@@ -212,6 +212,10 @@ p{
     padding: 0.5em 0;
 }
 
+#parity{
+    text-align: center;
+}
+
 hr{
     border: 1px solid var(--white);
     margin: 1em 0;
