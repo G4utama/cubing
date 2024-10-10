@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Antisune [B]",
+        "image": "image/4x4-OLL/Antisune-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Antisune [F]",
+        "image": "image/4x4-OLL/Antisune-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Antisune [L]",
+        "image": "image/4x4-OLL/Antisune-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Antisune [R]",
+        "image": "image/4x4-OLL/Antisune-Right.png",
+        "algorithm": ""
+    },
+    {
+        "name": "H [B]",
+        "image": "image/4x4-OLL/H-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "H [F]",
+        "image": "image/4x4-OLL/H-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "H [L]",
+        "image": "image/4x4-OLL/H-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "H [R]",
+        "image": "image/4x4-OLL/H-Right.png",
+        "algorithm": ""
+    },
+    {
+        "name": "L [B]",
+        "image": "image/4x4-OLL/L-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "L [F]",
+        "image": "image/4x4-OLL/L-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "L [L]",
+        "image": "image/4x4-OLL/L-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "L [R]",
+        "image": "image/4x4-OLL/L-Right.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Pi [B]",
+        "image": "image/4x4-OLL/Pi-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Pi [F]",
+        "image": "image/4x4-OLL/Pi-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Pi [L]",
+        "image": "image/4x4-OLL/Pi-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Pi [R]",
+        "image": "image/4x4-OLL/Pi-Right.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Sune [B]",
+        "image": "image/4x4-OLL/Sune-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Sune [F]",
+        "image": "image/4x4-OLL/Sune-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Sune [L]",
+        "image": "image/4x4-OLL/Sune-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "Sune [R]",
+        "image": "image/4x4-OLL/Sune-Right.png",
+        "algorithm": ""
+    },
+    {
+        "name": "T [B]",
+        "image": "image/4x4-OLL/T-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "T [F]",
+        "image": "image/4x4-OLL/T-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "T [L]",
+        "image": "image/4x4-OLL/T-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "T [R]",
+        "image": "image/4x4-OLL/T-Right.png",
+        "algorithm": ""
+    },
+    {
+        "name": "U [B]",
+        "image": "image/4x4-OLL/U-Back.png",
+        "algorithm": ""
+    },
+    {
+        "name": "U [F]",
+        "image": "image/4x4-OLL/U-Front.png",
+        "algorithm": ""
+    },
+    {
+        "name": "U [L]",
+        "image": "image/4x4-OLL/U-Left.png",
+        "algorithm": ""
+    },
+    {
+        "name": "U [R]",
+        "image": "image/4x4-OLL/U-Right.png",
+        "algorithm": ""
+    }
+]
