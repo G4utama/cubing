@@ -2,141 +2,141 @@
     {
         "name": "Antisune [B]",
         "image": "image/4x4-OLL/Antisune-Back.png",
-        "algorithm": ""
+        "algorithm": "[U2] [P] R U2 R2 U' R2 U' R2 U2 R"
     },
     {
         "name": "Antisune [F]",
         "image": "image/4x4-OLL/Antisune-Front.png",
-        "algorithm": ""
+        "algorithm": "F R U R' U' F' [P]"
     },
     {
         "name": "Antisune [L]",
         "image": "image/4x4-OLL/Antisune-Left.png",
-        "algorithm": ""
+        "algorithm": "[U'] R' F R F' [P] R U' R'"
     },
     {
         "name": "Antisune [R]",
         "image": "image/4x4-OLL/Antisune-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] [P] U' R U2 R' U' R U' R'"
     },
     {
         "name": "H [B]",
         "image": "image/4x4-OLL/H-Back.png",
-        "algorithm": ""
+        "algorithm": "[U2] [P] R U R' U R U' R' U R U2 R'"
     },
     {
         "name": "H [F]",
         "image": "image/4x4-OLL/H-Front.png",
-        "algorithm": ""
+        "algorithm": "[P] R U R' U R U' R' U R U2 R'"
     },
     {
         "name": "H [L]",
         "image": "image/4x4-OLL/H-Left.png",
-        "algorithm": ""
+        "algorithm": "[U'] [P] R2 D' R U2 R' D R U2 R"
     },
     {
         "name": "H [R]",
         "image": "image/4x4-OLL/H-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] [P] R2 D' R U2 R' D R U2 R"
     },
     {
         "name": "L [B]",
         "image": "image/4x4-OLL/L-Back.png",
-        "algorithm": ""
+        "algorithm": "[U2] [P] U R' U2 R U R' U R"
     },
     {
         "name": "L [F]",
         "image": "image/4x4-OLL/L-Front.png",
-        "algorithm": ""
+        "algorithm": "[U'] L U L' [P] L U' L'"
     },
     {
         "name": "L [L]",
         "image": "image/4x4-OLL/L-Left.png",
-        "algorithm": ""
+        "algorithm": "R' U' R [P] R' U R"
     },
     {
         "name": "L [R]",
         "image": "image/4x4-OLL/L-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] [P] R' U' R U' R' U2 R"
     },
     {
         "name": "Pi [B]",
         "image": "image/4x4-OLL/Pi-Back.png",
-        "algorithm": ""
+        "algorithm": "[U2] [P] R' U2 R U R' U R"
     },
     {
         "name": "Pi [F]",
         "image": "image/4x4-OLL/Pi-Front.png",
-        "algorithm": ""
+        "algorithm": "[P] U R' U' R U' R' U2 R"
     },
     {
         "name": "Pi [L]",
         "image": "image/4x4-OLL/Pi-Left.png",
-        "algorithm": ""
+        "algorithm": "[U'] [P] U' 3Rw U R' U' 3Rw' F R F'"
     },
     {
         "name": "Pi [R]",
         "image": "image/4x4-OLL/Pi-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] [P] U' R U2 R2 U' R2 U' R2 U2 R"
     },
     {
         "name": "Sune [B]",
         "image": "image/4x4-OLL/Sune-Back.png",
-        "algorithm": ""
+        "algorithm": "[U2] L F' L' F [P] L' U L"
     },
     {
         "name": "Sune [F]",
         "image": "image/4x4-OLL/Sune-Front.png",
-        "algorithm": ""
+        "algorithm": "[P] R U R' U R U2 R'"
     },
     {
         "name": "Sune [L]",
         "image": "image/4x4-OLL/Sune-Left.png",
-        "algorithm": ""
+        "algorithm": "[U'] [P] U2 R U2 R2 U' R2 U' R2 U2 R"
     },
     {
         "name": "Sune [R]",
         "image": "image/4x4-OLL/Sune-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] F' L' U' L U F [P]"
     },
     {
         "name": "T [B]",
         "image": "image/4x4-OLL/T-Back.png",
-        "algorithm": ""
+        "algorithm": "[P] R U R' U' R' F R F'"
     },
     {
         "name": "T [F]",
         "image": "image/4x4-OLL/T-Front.png",
-        "algorithm": ""
+        "algorithm": "F R U' R' U' R U R' F' [P]"
     },
     {
         "name": "T [L]",
         "image": "image/4x4-OLL/T-Left.png",
-        "algorithm": ""
+        "algorithm": "[U'] R U R' U' R [P] R' U R U' R'"
     },
     {
         "name": "T [R]",
         "image": "image/4x4-OLL/T-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] [P] U R U2 R2 U' R2 U' R2 U2 R"
     },
     {
         "name": "U [B]",
         "image": "image/4x4-OLL/U-Back.png",
-        "algorithm": ""
+        "algorithm": "[U2] [P]"
     },
     {
         "name": "U [F]",
         "image": "image/4x4-OLL/U-Front.png",
-        "algorithm": ""
+        "algorithm": "[U2] M [P] M'"
     },
     {
         "name": "U [L]",
         "image": "image/4x4-OLL/U-Left.png",
-        "algorithm": ""
+        "algorithm": "[U'] [P] R U2 R' U' R U' R'"
     },
     {
         "name": "U [R]",
         "image": "image/4x4-OLL/U-Right.png",
-        "algorithm": ""
+        "algorithm": "[U] [P] U' R U R' U R U2 R'"
     }
 ]
