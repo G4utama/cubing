@@ -166,15 +166,17 @@ table img{
     height: 96px;
 }
 
-#home{
+/* CARD */
+
+.card{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 5em 0;
+    padding: 2em 0;
 }
 
-#home a{
+.card a{
     border: 1px solid black;
     border-radius: 5px;
     padding: 1.5em;
@@ -186,11 +188,11 @@ table img{
     /*flex-basis: 15%;*/
 }
 
-#home a:hover{
+.card a:hover{
     background-color: var(--hover);
 }
 
-#home a:active{
+.card a:active{
     background-color: var(--click);
 }
 
