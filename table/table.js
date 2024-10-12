@@ -3,6 +3,7 @@ const tableData = {
     '_3x3-PLL': 'table/3x3-PLL.json',
     '_2x2-OLL': 'table/2x2-OLL.json',
     '_4x4-OLL': 'table/4x4-OLL.json',
+    '_skewb-LL': 'table/skewb-LL.json',
     '_SQ1-CPDF': 'table/SQ1-CP+DF.json',
     '_SQ1-PLL': 'table/SQ1-PLL.json'
 };

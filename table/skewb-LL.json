@@ -1,7 +1,72 @@
 [
     {
-        "name": "",
-        "image": "image/skewb-LL/.png",
-        "algorithm": ""
+        "name": "Pi [L]",
+        "image": "image/skewb-LL/Pi-Left.png",
+        "algorithm": "[y2] (R' F R F')"
+    },
+    {
+        "name": "Pi [R]",
+        "image": "image/skewb-LL/Pi-Right.png",
+        "algorithm": "(F R' F' R)"
+    },
+    {
+        "name": "Pi [U]",
+        "image": "image/skewb-LL/Pi-Up.png",
+        "algorithm": "(R' F R F')2"
+    },
+    {
+        "name": "L [B]",
+        "image": "image/skewb-LL/L-Back.png",
+        "algorithm": "(R' F R F') [y'] (F R' F' R)"
+    },
+    {
+        "name": "L [F]",
+        "image": "image/skewb-LL/L-Front.png",
+        "algorithm": "(R' F R F') [y] (R' F R F')"
+    },
+    {
+        "name": "L [L]",
+        "image": "image/skewb-LL/L-Left.png",
+        "algorithm": "[y'] (F R' F' R) [y] (R' F R F')"
+    },
+    {
+        "name": "L [R]",
+        "image": "image/skewb-LL/L-Right.png",
+        "algorithm": "[y'] (F R' F' R) [y'] (F R' F' R)"
+    },
+    {
+        "name": "Pi [B]",
+        "image": "image/skewb-LL/Pi-Back.png",
+        "algorithm": "[y'] (F R' F' R) [y'] (R' F R F') [y] (R' F R F')" 
+    },
+    {
+        "name": "Pi [F]",
+        "image": "image/skewb-LL/Pi-Front.png",
+        "algorithm": "[y] (R' F R F') [y] (R' F R F') [y'] (F R' F' R)"
+    },
+    {
+        "name": "L [Up]",
+        "image": "image/skewb-LL/L-Up.png",
+        "algorithm": "(F R' F' R) [y] (R' F R F') [y] (R' F R F')"
+    },
+    {
+        "name": "Solved [B]",
+        "image": "image/skewb-LL/Solved-Back.png",
+        "algorithm": "[y'] (R' F R F') [y2] (R' F R F')"
+    },
+    {
+        "name": "Solved [F]",
+        "image": "image/skewb-LL/Solved-Front.png",
+        "algorithm": "[y] (R' F R F') [y2] (R' F R F')"
+    },
+    {
+        "name": "Solved [L]",
+        "image": "image/skewb-LL/Solved-Left.png",
+        "algorithm": "(R' F R F') [y2] (R' F R F')"
+    },
+    {
+        "name": "Solved [R]",
+        "image": "image/skewb-LL/Solved-Right.png",
+        "algorithm": "[y2] (R' F R F') [y2] (R' F R F')"
     }
 ]
