@@ -6,3 +6,33 @@
 html, body{
     overflow-y: visible;
 }
+
+.menu{
+    display: none;
+}
+
+.card a{
+    width: 25%;
+}
+
+.card img{
+    width: 100%;
+}
+
+.notation img{
+    width: 64px;
+}
+
+table img{
+    width: 64px;
+}
+
+.alg{
+    float: none;
+}
+
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }

@@ -72,6 +72,8 @@ body{
 header{
     background-color: var(--menu);
     display: flex;
+    /*justify-content: space-between;
+    max-width: 100%;*/
 }
 
 header nav{
@@ -88,14 +90,14 @@ ul.menu, .menu ul{
 }
 
 .menu li{
-    width: 150px;
+    width: 100px;
     position: relative;
     display: inline-block;
 }
 
 .menu li a{
     display: block;
-    width: 150px;
+    width: 100px;
     line-height: 50px;
     text-align: center;
     color: white;
@@ -163,7 +165,7 @@ table, th, td{
 
 table img{
     padding: 0.3em;
-    height: 96px;
+    width: 96px;
 }
 
 /* CARD */
@@ -241,7 +243,7 @@ hr{
 }
 
 .notation img{
-    height: 96px;
+    width: 96px;
 }
 
 /* FACE COLOR */
