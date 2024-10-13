@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>2x2</title>
+    <link rel="icon" type="image/png" href="image/logo.png">
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:1080px)">
+    <script src="template/template.js"></script>
+</head>
+<body>
+    <div id="header"></div>
+    <main>
+        <a href="index.html"><img src="image/back.png"></a>
+        <h1>2x2</h1>
+        <hr>
+        <h2>Algorithm</h2>
+        <div class="card">
+            <a href="2x2-OLL.html">
+                <img id="cube" src="image/2x2-OLL/cube.png" alt="logo">
+                <p>OLL</p>
+            </a>
+            <a href="2x2-PBL.html">
+                <img id="cube" src="image/2x2-PBL/cube.png" alt="logo">
+                <p>PBL</p>
+            </a>
+        </div>
+        <hr>
+        <div>
+            <h2>Method</h2>
+            <h3>Ortega</h3>
+            <p>Ortega consists of 3 steps:</p>
+            <ol>
+                <li>OFL (Orientate First Layer)</li>
+                <li>OLL (Orientate Last Layer) <div class="alg">[7 alg]</div></li>
+                <li>PBL (Permutate Both Layer) <div class="alg">[9 alg]</div></li>
+            </ol>
+            <h3>EG</h3>
+            <p>EG consists of 3 steps:</p>
+            <ol>
+                <li>OFL (Orientate First Layer)</li>
+                <li>There's 3 options, depending on the bottom face permutation:</li>
+                    <ul>
+                        <li>if bottom face is solved: CLL <div class="alg">[42 alg]</div></li>
+                        <li>if bottom face need a T perm: EG-1 <div class="alg">[42 alg]</div></li>
+                        <li>if bottom face need a Y perm: EG-2 <div class="alg">[42 alg]</div></li>
+                    </ul>
+            </ol>
+        </div>      
+    </main>
+    <div id="footer"></div>
+</body>
+</html>
