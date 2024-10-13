@@ -30,9 +30,3 @@ table img{
 .alg{
     float: none;
 }
-
-td {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
