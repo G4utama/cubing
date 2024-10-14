@@ -1,0 +1,1 @@
+window.history.pushState({}, '', window.location.pathname.replace(/\.html$/, ''));
