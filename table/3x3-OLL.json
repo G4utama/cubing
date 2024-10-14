@@ -1,7 +1,7 @@
 [
     {
         "name": "01",
-        "image": "image/3x3-OLL/01.png",
+        "image": "/image/3x3-OLL/01.png",
         "algorithm": "R U2 R2 F R F' U2 R' F R F'"
     },
     {
