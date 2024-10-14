@@ -1,0 +1,17 @@
+[
+    {
+        "name": "U",
+        "image": "image/skewb-L4C/U.png",
+        "algorithm": "[x] (R' F R F') [y2] (R' F R F')"
+    },
+    {
+        "name": "H",
+        "image": "image/skewb-L4C/H.png",
+        "algorithm": "[x] R U' L U' R' L U' L"
+    },
+    {
+        "name": "Z",
+        "image": "image/skewb-L4C/Z.png",
+        "algorithm": "R L' U' L U L R L' R"
+    }
+]

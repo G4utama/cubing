@@ -4,6 +4,7 @@ const tableData = {
     '_2x2-OLL': 'table/2x2-OLL.json',
     '_4x4-OLL': 'table/4x4-OLL.json',
     '_skewb-LL': 'table/skewb-LL.json',
+    '_skewb-L4C': 'table/skewb-L4C.json',
     '_SQ1-CPDF': 'table/SQ1-CP+DF.json',
     '_SQ1-PLL': 'table/SQ1-PLL.json'
 };
