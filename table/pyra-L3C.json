@@ -1,0 +1,52 @@
+[
+    {
+        "name": "R1",
+        "image": "image/pyra-L3C/R1.png",
+        "algorithm": "R' L' R' L R"
+    },
+    {
+        "name": "L1",
+        "image": "image/pyra-L3C/L1.png",
+        "algorithm": "L R L R' L'"
+    },
+    {
+        "name": "R2",
+        "image": "image/pyra-L3C/R2.png",
+        "algorithm": "R' L R' L' R L'"
+    },
+    {
+        "name": "L2",
+        "image": "image/pyra-L3C/L2.png",
+        "algorithm": "L R' L R L' R"
+    },
+    {
+        "name": "R3",
+        "image": "image/pyra-L3C/R3.png",
+        "algorithm": "L R' L D L U L"
+    },
+    {
+        "name": "L3",
+        "image": "image/pyra-L3C/L3.png",
+        "algorithm": "R' L R' D' R' U' R'"
+    },
+    {
+        "name": "F",
+        "image": "image/pyra-L3C/F.png",
+        "algorithm": "R L R L R' L' R"
+    },
+    {
+        "name": "B",
+        "image": "image/pyra-L3C/B.png",
+        "algorithm": "R' L R L' R' L' R'"
+    },
+    {
+        "name": "BR",
+        "image": "image/pyra-L3C/BR.png",
+        "algorithm": "B' U R U L'"
+    },
+    {
+        "name": "BL",
+        "image": "image/pyra-L3C/BL.png",
+        "algorithm": "B U' L' U' R"
+    }
+]
