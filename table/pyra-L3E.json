@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Swap",
+        "image": "image/pyra-L3E/swap.png",
+        "algorithm": "(R' L R L') (U L' U' L)"
+    },
+    {
+        "name": "R",
+        "image": "image/pyra-L3E/R.png",
+        "algorithm": "(L R' L' R)"
+    },
+    {
+        "name": "L",
+        "image": "image/pyra-L3E/L.png",
+        "algorithm": "(R' L R L')"
+    },
+    {
+        "name": "Cw",
+        "image": "image/pyra-L3E/cw.png",
+        "algorithm": "(L R' L' R) [z] (L R' L' R)"
+    },
+    {
+        "name": "Ccw",
+        "image": "image/pyra-L3E/ccw.png",
+        "algorithm": "(R' L R L') [z'] (R' L R L')"
+    }
+]
