@@ -11,6 +11,7 @@
     --visited: rgb(191,0,0);
     --hover: #404040;
     --click: #505050;
+    --table: #252525;
     /* COLOR */
     --black: rgb(0,0,0);
     --white: rgb(255,255,255);
@@ -151,6 +152,7 @@ footer{
 
 table{
     margin: 2em;
+    background-color: var(--table);
 }
 
 table, th, td{

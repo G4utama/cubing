@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pyraminx</title>
+    <link rel="icon" type="image/png" href="image/logo.png">
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:720px)">
+    <script src="template/template.js"></script>
+</head>
+<body>
+    <div id="header"></div>
+    <main>
+        <a href="."><img src="image/back.png"></a>
+        <h1>Pyraminx</h1>
+        <hr>
+        <h2>Algorithm</h2>
+        <div class="card">
+            <a href="pyra-L3C.html">
+                <img id="cube" src="image/pyra-L3C/cube.png" alt="logo">
+                <p>L3C</p>
+            </a>
+            <a href="pyra-L3E.html">
+                <img id="cube" src="image/pyra-L3E/cube.png" alt="logo">
+                <p>L3E</p>
+            </a>
+        </div>
+        <hr>
+        <div>
+            <h2>Method</h2>
+            <h3>Top First</h3>
+            <p>Top First consists of 4 steps:</p>
+            <ol>
+                <li>Orientate Tips</li>
+                <li>Top Edges</li>
+                <li>L3C (Last 3 Centers) <div class="alg">[10 alg]</div></li>
+                <li>L3E (Last 3 Edges) <div class="alg">[5 alg]</div></li>
+            </ol>
+        </div>
+        <hr>
+        <div>
+            <h2>Notation</h2>
+            <p>There are 4 basic moves, bases on the top opposite to each face. In addition there is the D move. There're also R', L', U', B', D'.</p>
+            <div class="notation">
+                <div>
+                    <img src="image/pyra/R.png">
+                    <p>R</p>
+                </div>
+                <div>
+                    <img src="image/pyra/L.png">
+                    <p>L</p>
+                </div>
+                <div>
+                    <img src="image/pyra/U.png">
+                    <p>U</p>
+                </div>
+                <div>
+                    <img src="image/pyra/B.png">
+                    <p>B</p>
+                </div>  
+                <div>
+                    <img src="image/pyra/D.png">
+                    <p>D</p>
+                </div> 
+            </div>
+        </div>        
+    </main>
+    <div id="footer"></div>
+</body>
+</html>
