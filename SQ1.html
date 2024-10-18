@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Square-1</title>
+    <link rel="icon" type="image/png" href="image/logo.png">
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:720px)">
+    <script src="template/template.js"></script>
+</head>
+<body>
+    <div id="header"></div>
+    <main>
+        <a href="."><img src="image/back.png"></a>
+        <h1>Square-1</h1>
+        <hr>
+        <h2>Algorithm</h2>
+        <div class="card">
+            <a href="SQ1-CP+DF.html">
+                <img id="cube" src="image/SQ1-CP+DF/cube.png" alt="logo">
+                <p>CP+DF</p>
+            </a>
+            <a href="SQ1-PLL.html">
+                <img id="cube" src="image/SQ1-PLL/cube.png" alt="logo">
+                <p>PLL</p>
+            </a>
+        </div>
+        <hr>
+        <div>
+            <h2>Method</h2>
+            <h3>Lin</h3>
+            <p>Lin consists of 4 steps:</p>
+            <ol>
+                <li>Cube Shape</li>
+                <li>F2B (First 2 Block)</li>
+                <li>DF+CP (Down Front + Corner Permutation) <div class="alg">[6 alg]</div></li>
+                <li>PLL (Permutate Last Layer) <div class="alg">[21 alg]</div></li>
+            </ol>
+        </div>
+        <hr>
+        <div>
+            <h2>Notation</h2>
+            <p>There are 2 basic moves:</p>
+            <ul>
+                <li>/ indicate a slice move</li>
+                <li>(x,y) indicates a rotation.</li>
+                <ul>
+                    <li>x for the upper layer, y for the bottom layer.</li>
+                    <li>x and y can range from -6 to 6.</li>
+                    <li>Each number indicates a rotation of 30° clockwise if positive and counterclockwise if negative.</li>
+                </ul>
+            </ul>
+        </div>        
+    </main>
+    <div id="footer"></div>
+</body>
+</html>
