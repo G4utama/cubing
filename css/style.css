@@ -230,7 +230,7 @@ hr{
     float: right;
 }
 
-.notation{
+.notation, .step{
     display: flex;
     flex-wrap: wrap;
     /*justify-content: center;*/
@@ -243,7 +243,7 @@ hr{
     padding: 0.5em 0;
 }
 
-.notation img{
+.notation img, .step .cube img{
     width: 96px;
 }
 
