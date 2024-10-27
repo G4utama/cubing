@@ -1,0 +1,38 @@
+[
+    {
+		"image": "image/3x3/method/scrambled.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "EO"
+    },
+    {
+		"image": "image/3x3/method/EO-F2L.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "F2L"
+    },
+    {
+		"image": "image/3x3/method/F2L-COLL.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "COLL"
+    },
+    {
+		"image": "image/3x3/method/COLL-EPLL.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "EPLL"
+    },
+    {
+		"image": "image/3x3/method/solved.png",
+		"step": ""
+    }
+]
