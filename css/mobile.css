@@ -19,6 +19,10 @@ html, body{
     width: 100%;
 }
 
+.step img{
+    width: 24px;
+}
+
 .notation img, .step .cube img{
     width: 64px;
 }
