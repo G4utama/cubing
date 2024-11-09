@@ -180,7 +180,7 @@ table img{
 }
 
 .card a{
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 5px;
     padding: 1.5em;
     margin: 1em;
@@ -245,6 +245,18 @@ hr{
 
 .notation img, .step .cube img{
     width: 96px;
+}
+
+.step{
+    background-color: var(--click);
+    width: fit-content;
+    padding: 1em;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.step div{
+    padding: 0.2em;
 }
 
 /* FACE COLOR */

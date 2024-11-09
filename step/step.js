@@ -26,7 +26,6 @@ function loadStepData(filePath, id) {
 					html += `
 						<div class="cube">
 							<img src="${item.image}">
-							<p>${item.step}</p>
 						</div>
 					`;
 				}

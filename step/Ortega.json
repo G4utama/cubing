@@ -1,7 +1,7 @@
 [
     {
 		"image": "image/2x2/method/scrambled.png",
-		"step": ""
+		"step": "U' R' F' R2 U' R' U' F R U R"
     },
     {
 		"image": "image/right.png",

@@ -12,7 +12,7 @@ html, body{
 }
 
 .card a{
-    width: 25%;
+    width: 24%;
 }
 
 .card img{
@@ -29,4 +29,8 @@ table img{
 
 .alg{
     float: none;
+}
+
+.notation, .step{
+    justify-content: center;
 }
