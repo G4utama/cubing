@@ -3,6 +3,9 @@ const files = [
 	{ filePath: 'step/ROUX.json', id: 'ROUX' },
 	{ filePath: 'step/ZZ.json', id: 'ZZ' },
 	{ filePath: 'step/Ortega.json', id: 'Ortega' },
+	{ filePath: 'step/CLL.json', id: 'CLL' },
+	{ filePath: 'step/EG1.json', id: 'EG1' },
+	{ filePath: 'step/EG2.json', id: 'EG2' }
 ];
   
 files.forEach((file) => {

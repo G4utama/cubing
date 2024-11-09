@@ -253,6 +253,7 @@ hr{
     padding: 1em;
     border: 2px solid black;
     border-radius: 5px;
+    margin: 1em 0;
 }
 
 .step div{
