@@ -1,0 +1,30 @@
+[
+    {
+		"image": "image/pyra/method/scrambled.png",
+		"step": "L U' L' R B U R L' B' R B u l' r"
+    },
+    {
+		"image": "image/right.png",
+		"step": "Top"
+    },
+	{
+		"image": "image/pyra/method/Top-L3C.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "L3C"
+    },
+	{
+		"image": "image/pyra/method/L3C-L3E.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "L3E"
+    },
+	{
+		"image": "image/pyra/method/solved.png",
+		"step": ""
+    }
+]
