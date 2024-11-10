@@ -1,0 +1,30 @@
+[
+    {
+		"image": "image/2x2/method/scrambled.png",
+		"step": "U' R' F' R2 U' R' U' F R U R"
+    },
+    {
+		"image": "image/right.png",
+		"step": "OFL"
+    },
+	{
+		"image": "image/2x2/method/OFL-OLL.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "OLL"
+    },
+	{
+		"image": "image/2x2/method/OLL-PBL.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "PBL"
+    },
+	{
+		"image": "image/2x2/method/solved.png",
+		"step": ""
+    }
+]

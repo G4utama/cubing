@@ -1,0 +1,30 @@
+[
+    {
+		"image": "image/skewb/method/scrambled.png",
+		"step": "B L R' B' L U B' R U' R U"
+    },
+    {
+		"image": "image/right.png",
+		"step": "FL"
+    },
+	{
+		"image": "image/skewb/method/FL-LL.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "LL"
+    },
+	{
+		"image": "image/skewb/method/LL-L4C.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "L4C"
+    },
+	{
+		"image": "image/skewb/method/solved.png",
+		"step": ""
+    }
+]

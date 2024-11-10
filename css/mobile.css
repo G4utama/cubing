@@ -12,14 +12,18 @@ html, body{
 }
 
 .card a{
-    width: 25%;
+    width: 24%;
 }
 
 .card img{
     width: 100%;
 }
 
-.notation img{
+.step img{
+    width: 24px;
+}
+
+.notation img, .step .cube img{
     width: 64px;
 }
 
@@ -29,4 +33,8 @@ table img{
 
 .alg{
     float: none;
+}
+
+.notation, .step{
+    justify-content: center;
 }

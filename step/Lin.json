@@ -1,0 +1,38 @@
+[
+    {
+		"image": "image/SQ1/method/scrambled.png",
+		"step": "(0,2) / (1,-5) / (-1,2) / (3,0) / (0,-3) / (-5,-5) / (0,-1) / (6,0) / (6,0) / (-4,0) / (0,-2)"
+    },
+    {
+		"image": "image/right.png",
+		"step": "Cube"
+    },
+	{
+		"image": "image/SQ1/method/Cube-F2B.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "F2B"
+    },
+	{
+		"image": "image/SQ1/method/F2B-DF+CP.png",
+		"step": ""
+    },
+	{
+		"image": "image/right.png",
+		"step": "DF+CP"
+    },
+	{
+		"image": "image/SQ1/method/DF+CP-EPLL.png",
+		"step": ""
+    },
+	{
+		"image": "image/right.png",
+		"step": "EPLL"
+    },
+	{
+		"image": "image/SQ1/method/solved.png",
+		"step": ""
+    }
+]

@@ -50,23 +50,8 @@
         "algorithm": "(F R' F' R) [y] (R' F R F') [y] (R' F R F')"
     },
     {
-        "name": "Solved [B]",
-        "image": "image/skewb-LL/Solved-Back.png",
-        "algorithm": "[y'] (R' F R F') [y2] (R' F R F')"
-    },
-    {
-        "name": "Solved [F]",
-        "image": "image/skewb-LL/Solved-Front.png",
-        "algorithm": "[y] (R' F R F') [y2] (R' F R F')"
-    },
-    {
-        "name": "Solved [L]",
-        "image": "image/skewb-LL/Solved-Left.png",
+        "name": "Solved",
+        "image": "image/skewb-LL/Solved.png",
         "algorithm": "(R' F R F') [y2] (R' F R F')"
-    },
-    {
-        "name": "Solved [R]",
-        "image": "image/skewb-LL/Solved-Right.png",
-        "algorithm": "[y2] (R' F R F') [y2] (R' F R F')"
     }
 ]
