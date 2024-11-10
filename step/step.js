@@ -8,6 +8,7 @@ const files = [
 	{ filePath: 'step/EG2.json', id: 'EG2' },
 	{ filePath: 'step/TopFirst.json', id: 'TopFirst' },
 	{ filePath: 'step/LLC.json', id: 'LLC' },
+	{ filePath: 'step/Lin.json', id: 'Lin' },
 ];
   
 files.forEach((file) => {
