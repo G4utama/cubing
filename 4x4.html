@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4x4</title>
+    <link rel="icon" type="image/png" href="image/logo.png">
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:720px)">
+    <script src="template/template.js"></script>
+    <script src="step/step.js"></script>
+</head>
+<body>
+    <div id="header"></div>
+    <main>
+        <a href="."><img src="image/back.png"></a>
+        <h1>4x4</h1>
+        <hr>
+        <h2>Algorithm</h2>
+        <div class="card">
+            <a href="4x4-OLL.html">
+                <img id="cube" src="image/4x4-OLL/cube.png" alt="logo">
+                <p>OLL</p>
+            </a>
+        </div>
+        <hr>
+        <div>
+            <h2>Method</h2>
+            <h3>Yau</h3>
+            <p>Ortega consists of # steps:</p>
+            <ol>
+                <li>F2C (First 2 Center)</li>
+                <li>Partial Cross</li>
+                <li>L4C (Last 4 Center) <div class="alg">[# alg]</div></li>
+                <li>LCE (Last Cross Edge)</li>
+                <li>L8E (Last 8 Edges)</li>
+                <li>3x3 Stage</li>
+            </ol>
+            <div class="step" id="Yau"></div>
+        </div>      
+    </main>
+    <div id="footer"></div>
+</body>
+</html>
