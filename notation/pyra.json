@@ -1,0 +1,22 @@
+[
+    {
+		"image": "image/pyra/R.png",
+		"move": "R"
+    },
+    {
+        "image": "image/pyra/L.png",
+        "move": "L"
+    },
+    {
+        "image": "image/pyra/U.png",
+        "move": "U"
+    },
+    {
+        "image": "image/pyra/B.png",
+        "move": "B"
+    },
+    {
+        "image": "image/pyra/D.png",
+        "move": "D"
+    }
+]

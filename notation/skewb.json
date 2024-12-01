@@ -1,0 +1,18 @@
+[
+    {
+		"image": "image/skewb/R.png",
+		"move": "R"
+    },
+    {
+        "image": "image/skewb/L.png",
+        "move": "L"
+    },
+    {
+        "image": "image/skewb/F.png",
+        "move": "F"
+    },
+    {
+        "image": "image/skewb/U.png",
+        "move": "U"
+    }
+]

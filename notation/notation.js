@@ -4,6 +4,8 @@ const notationFiles = [
     { filePath: 'notation/3x3_double.json', id: '3x3_double' },
     { filePath: 'notation/3x3_slice.json', id: '3x3_slice' },
     { filePath: 'notation/3x3_rotation.json', id: '3x3_rotation' },
+    { filePath: 'notation/pyra.json', id: 'pyra' },
+    { filePath: 'notation/skewb.json', id: 'skewb' },
 ];
 
 notationFiles.forEach((notationFile) => {
