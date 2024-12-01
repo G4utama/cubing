@@ -1,0 +1,26 @@
+[
+    {
+		"image": "image/3x3/U'.png",
+		"move": "U'"
+    },
+    {
+        "image": "image/3x3/D'.png",
+        "move": "D'"
+    },
+    {
+        "image": "image/3x3/R'.png",
+        "move": "R'"
+    },
+    {
+        "image": "image/3x3/L'.png",
+        "move": "L'"
+    },
+    {
+        "image": "image/3x3/F'.png",
+        "move": "F'"
+    },
+    {
+        "image": "image/3x3/B'.png",
+        "move": "B'"
+    }
+]

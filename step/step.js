@@ -1,4 +1,4 @@
-const files = [
+const stepFiles = [
 	{ filePath: 'step/CFOP.json', id: 'CFOP' },
 	{ filePath: 'step/ROUX.json', id: 'ROUX' },
 	{ filePath: 'step/ZZ.json', id: 'ZZ' },
@@ -11,8 +11,8 @@ const files = [
 	{ filePath: 'step/Lin.json', id: 'Lin' },
 ];
   
-files.forEach((file) => {
-	loadStepData(file.filePath, file.id);
+stepFiles.forEach((stepFile) => {
+	loadStepData(stepFile.filePath, stepFile.id);
 });
 
 function loadStepData(filePath, id) {
