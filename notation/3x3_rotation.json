@@ -1,0 +1,14 @@
+[
+    {
+		"image": "image/3x3/x.png",
+		"move": "x"
+    },
+    {
+        "image": "image/3x3/y.png",
+        "move": "y"
+    },
+    {
+        "image": "image/3x3/z.png",
+        "move": "z"
+    }
+]

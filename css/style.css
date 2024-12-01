@@ -239,15 +239,11 @@ hr{
     padding: 0.5em 0;
 }
 
-.notation div{
-    padding: 0.5em 0;
-}
-
 .notation img, .step .cube img{
     width: 96px;
 }
 
-.step{
+.step, .notation{
     background-color: var(--table);
     width: fit-content;
     padding: 1em;
@@ -256,7 +252,7 @@ hr{
     margin: 1em 0;
 }
 
-.step div{
+.step div, .notation div{
     padding: 0.2em;
 }
 

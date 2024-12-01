@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:720px)">
     <script src="template/template.js"></script>
     <script src="step/step.js"></script>
+    <script src="notation/notation.js"></script>
 </head>
 <body>
     <div id="header"></div>
@@ -72,120 +73,19 @@
             <p>There are 6 basic moves, bases on the faces of the cube: <strong id="U">U</strong>p, <strong id="D">D</strong>own, <strong id="R">R</strong>ight, <strong id="L">L</strong>eft, <strong id="F">F</strong>ront, <strong id="B">B</strong>ack.</p>
             <h3>Clockwise turns</h3>
             <p>A letter by itself means to turn the face clockwise [90°].</p>
-            <div class="notation">
-                <div>
-                    <img src="image/3x3/U.png">
-                    <p>U</p>
-                </div>
-                <div>
-                    <img src="image/3x3/D.png">
-                    <p>D</p>
-                </div>
-                <div>
-                    <img src="image/3x3/R.png">
-                    <p>R</p>
-                </div>
-                <div>
-                    <img src="image/3x3/L.png">
-                    <p>L</p>
-                </div> 
-                <div>
-                    <img src="image/3x3/F.png">
-                    <p>F</p>
-                </div> 
-                <div>
-                    <img src="image/3x3/B.png">
-                    <p>B</p>
-                </div> 
-            </div>
+            <div class="notation" id="3x3_cw"></div>
             <h3>Counterclockwise turns</h3>
             <p>A letter followed by an apostrophe means to turn the face counterclockwise [-90°].</p>
-            <div class="notation">
-                <div>
-                    <img src="image/3x3/U'.png">
-                    <p>U'</p>
-                </div>
-                <div>
-                    <img src="image/3x3/D'.png">
-                    <p>D'</p>
-                </div>
-                <div>
-                    <img src="image/3x3/R'.png">
-                    <p>R'</p>
-                </div>
-                <div>
-                    <img src="image/3x3/L'.png">
-                    <p>L'</p>
-                </div> 
-                <div>
-                    <img src="image/3x3/F'.png">
-                    <p>F'</p>
-                </div> 
-                <div>
-                    <img src="image/3x3/B'.png">
-                    <p>B'</p>
-                </div> 
-            </div>
+            <div class="notation" id="3x3_ccw"></div>
             <h3>Double turns</h3>
             <p>A letter followed by a 2 means to turn the face twice [180°].</p>
-            <div class="notation">
-                <div>
-                    <img src="image/3x3/U2.png">
-                    <p>U2</p>
-                </div>
-                <div>
-                    <img src="image/3x3/D2.png">
-                    <p>D2</p>
-                </div>
-                <div>
-                    <img src="image/3x3/R2.png">
-                    <p>R2</p>
-                </div>
-                <div>
-                    <img src="image/3x3/L2.png">
-                    <p>L2</p>
-                </div> 
-                <div>
-                    <img src="image/3x3/F2.png">
-                    <p>F2</p>
-                </div> 
-                <div>
-                    <img src="image/3x3/B2.png">
-                    <p>B2</p>
-                </div> 
-            </div>
+            <div class="notation" id="3x3_double"></div>
             <h3>Slice turns</h3>
             <p>Slice moves only turn the middle layer. M, E, S follow L, D, F respectively. There're also M', E', S' and M2, E2, S2</p>
-            <div class="notation">
-                <div>
-                    <img src="image/3x3/M.png">
-                    <p>M</p>
-                </div>
-                <div>
-                    <img src="image/3x3/E.png">
-                    <p>E</p>
-                </div>
-                <div>
-                    <img src="image/3x3/S.png">
-                    <p>S</p>
-                </div>
-            </div>
+            <div class="notation" id="3x3_slice"></div>
             <h3>Cube rotations</h3>
             <p>The cube rotations are written as the x, y, z axes. There are also x', y', z'.</p>
-            <div class="notation">
-                <div>
-                    <img src="image/3x3/x.png">
-                    <p>x</p>
-                </div>
-                <div>
-                    <img src="image/3x3/y.png">
-                    <p>y</p>
-                </div>
-                <div>
-                    <img src="image/3x3/z.png">
-                    <p>z</p>
-                </div>
-            </div>
+            <div class="notation" id="3x3_rotation"></div>
         </div>        
     </main>
     <div id="footer"></div>
