@@ -1,0 +1,54 @@
+[
+    {
+		"image": "image/4x4/method/scrambled.png",
+		"step": "R' D2 L' F' U2 F U2 D2 F D2 B2 D2 L F2 L2 R' U' R2 D' Uw2 B' Rw2 F' R Uw2 Rw2 U2 Fw2 D2 R2 L2 Uw Fw2 Uw' B2 R F' D' B' Rw Uw' D2 Rw U2"
+    },
+    {
+		"image": "image/right.png",
+		"step": "F2C"
+    },
+    {
+		"image": "image/4x4/method/F2C-F3E.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "F3E"
+    },
+    {
+		"image": "image/4x4/method/F3E-L4C.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "L4C"
+    },
+    {
+		"image": "image/4x4/method/L4C-LCE.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "LCE"
+    },
+    {
+		"image": "image/4x4/method/LCE-L8E.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "L8E"
+    },
+    {
+		"image": "image/4x4/method/L8E-3x3.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "3x3"
+    },
+    {
+		"image": "image/4x4/method/solved.png",
+		"step": ""
+    }
+]

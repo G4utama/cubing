@@ -6,6 +6,7 @@ const stepFiles = [
 	{ filePath: 'step/CLL.json', id: 'CLL' },
 	{ filePath: 'step/EG1.json', id: 'EG1' },
 	{ filePath: 'step/EG2.json', id: 'EG2' },
+	{ filePath: 'step/Yau.json', id: 'Yau' },
 	{ filePath: 'step/TopFirst.json', id: 'TopFirst' },
 	{ filePath: 'step/LLC.json', id: 'LLC' },
 	{ filePath: 'step/Lin.json', id: 'Lin' },
