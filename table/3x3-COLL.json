@@ -1,0 +1,22 @@
+[
+    {
+        "name": "H1",
+        "image": "image/3x3-COLL/H1.png",
+        "algorithm": "R U R' U R U' R' U R U2 R'"
+    },
+    {
+        "name": "H2",
+        "image": "image/3x3-COLL/H2.png",
+        "algorithm": "F R U' R' U R U2 R' U' R U R' U' F'"
+    },
+    {
+        "name": "H3",
+        "image": "image/3x3-COLL/H3.png",
+        "algorithm": "R U R' U R U L' U R' U' L"
+    },
+    {
+        "name": "H4",
+        "image": "image/3x3-COLL/H4.png",
+        "algorithm": "[U] F R U R' U' R U R' U' R U R' U' F' [U']"
+    }
+]
