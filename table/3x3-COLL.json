@@ -18,5 +18,35 @@
         "name": "H4",
         "image": "image/3x3-COLL/H4.png",
         "algorithm": "[U] F R U R' U' R U R' U' R U R' U' F' [U']"
+    },
+    {
+        "name": "L1",
+        "image": "image/3x3-COLL/L1.png",
+        "algorithm": "[U] R' U2 R U R' U' R U R' U' R U R' U R"
+    },
+    {
+        "name": "L2",
+        "image": "image/3x3-COLL/L2.png",
+        "algorithm": "[U'] R' U2 R' D' R U2 R' D R2"
+    },
+    {
+        "name": "L3",
+        "image": "image/3x3-COLL/L3.png",
+        "algorithm": "R U2 R D R' U2 R D' R2"
+    },
+    {
+        "name": "L4",
+        "image": "image/3x3-COLL/L4.png",
+        "algorithm": "F R' F' r U R U' r'"
+    },
+    {
+        "name": "L5",
+        "image": "image/3x3-COLL/L5.png",
+        "algorithm": "x R' U R D' R' U' R D"
+    },
+    {
+        "name": "L6",
+        "image": "image/3x3-COLL/L6.png",
+        "algorithm": "[U2] R' U' R U R' F' R U R' U' R' F R2"
     }
 ]
