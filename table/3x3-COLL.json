@@ -48,5 +48,35 @@
         "name": "L6",
         "image": "image/3x3-COLL/L6.png",
         "algorithm": "[U2] R' U' R U R' F' R U R' U' R' F R2"
+    },
+    {
+        "name": "Pi1",
+        "image": "image/3x3-COLL/Pi1.png",
+        "algorithm": "R U2 R2 U' R2 U' R2 U2 R"
+    },
+    {
+        "name": "Pi2",
+        "image": "image/3x3-COLL/Pi2.png",
+        "algorithm": "[U] F U R U' R' U R U' R2 F' R U R U' R'"
+    },
+    {
+        "name": "Pi3",
+        "image": "image/3x3-COLL/Pi3.png",
+        "algorithm": "R' U' F' R U R' U' R' F R2 U2 R' U2 R"
+    },
+    {
+        "name": "Pi4",
+        "image": "image/3x3-COLL/Pi4.png",
+        "algorithm": "R U R' U' R' F R2 U R' U' R U R' U' F'"
+    },
+    {
+        "name": "Pi5",
+        "image": "image/3x3-COLL/Pi5.png",
+        "algorithm": "R U' L' U R' U L U L' U L"
+    },
+    {
+        "name": "Pi6",
+        "image": "image/3x3-COLL/Pi6.png",
+        "algorithm": "R2 D' R U R' D R U R U' R' U R U R' U R"
     }
 ]
