@@ -108,5 +108,35 @@
         "name": "T6",
         "image": "image/3x3-COLL/T6.png",
         "algorithm": "[U] R' U R2 D r' U2 r D' R2 U' R"
+    },
+    {
+        "name": "U1",
+        "image": "image/3x3-COLL/U1.png",
+        "algorithm": "R' U' R U' R' U2 R2 U R' U R U2 R'"
+    },
+    {
+        "name": "U2",
+        "image": "image/3x3-COLL/U2.png",
+        "algorithm": "R' F R U' R' U' R U R' F' R U R' U' R' F R F' R"
+    },
+    {
+        "name": "U3",
+        "image": "image/3x3-COLL/U3.png",
+        "algorithm": "L2 D L' U2 L D' L' U2 L'"
+    },
+    {
+        "name": "U4",
+        "image": "image/3x3-COLL/U4.png",
+        "algorithm": "F R U' R' U R U R' U R U' R' F'"
+    },
+    {
+        "name": "U5",
+        "image": "image/3x3-COLL/U5.png",
+        "algorithm": "R2 D' R U2 R' D R U2 R"
+    },
+    {
+        "name": "U6",
+        "image": "image/3x3-COLL/U6.png",
+        "algorithm": "R2 D' R U R' D R U R U' R' U' R"
     }
 ]
