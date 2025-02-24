@@ -1,5 +1,35 @@
 [
     {
+        "name": "AS1",
+        "image": "image/3x3-COLL/AS1.png",
+        "algorithm": "L' U' L U' L' U2 L"
+    },
+    {
+        "name": "AS2",
+        "image": "image/3x3-COLL/AS2.png",
+        "algorithm": "R' U2 F' R U R' U' R' F R2 U R' U R"
+    },
+    {
+        "name": "AS3",
+        "image": "image/3x3-COLL/AS3.png",
+        "algorithm": "R2 D R' U2 R D' R2 U' R U' R'"
+    },
+    {
+        "name": "AS4",
+        "image": "image/3x3-COLL/AS4.png",
+        "algorithm": "R' U' R U' R2 D' R U2 R' D R2"
+    },
+    {
+        "name": "AS5",
+        "image": "image/3x3-COLL/AS5.png",
+        "algorithm": "L' U R U' L U R'"
+    },
+    {
+        "name": "AS6",
+        "image": "image/3x3-COLL/AS6.png",
+        "algorithm": "[U2] R U' R' U2 R U' R' U2 R' D' R U R' D R"
+    },
+    {
         "name": "H1",
         "image": "image/3x3-COLL/H1.png",
         "algorithm": "R U R' U R U' R' U R U2 R'"
