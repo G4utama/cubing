@@ -1,0 +1,26 @@
+[
+    {
+		"image": "image/megaminx/R.png",
+		"move": "R"
+    },
+    {
+        "image": "image/megaminx/L.png",
+        "move": "L"
+    },
+    {
+        "image": "image/megaminx/U.png",
+        "move": "U"
+    },
+    {
+        "image": "image/megaminx/F.png",
+        "move": "F"
+    },
+    {
+        "image": "image/megaminx/DR.png",
+        "move": "DR"
+    },
+    {
+        "image": "image/megaminx/BR.png",
+        "move": "BR"
+    }
+]

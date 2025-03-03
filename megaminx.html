@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Megaminx</title>
+    <link rel="icon" type="image/png" href="image/logo.png">
+    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:720px)">
+    <script src="template/template.js"></script>
+    <script src="step/step.js"></script>
+    <script src="notation/notation.js"></script>
+</head>
+<body>
+    <div id="header"></div>
+    <main>
+        <a href="."><img src="image/back.png"></a>
+        <h1>Megaminx</h1>
+        <hr>
+        <h2>Algorithm</h2>
+        <div class="card">
+            <a href="megaminx-EO.html">
+                <img id="cube" src="image/megaminx-EO/cube.png" alt="logo">
+                <p>EO</p>
+            </a>
+            <a href="megaminx-CO.html">
+                <img id="cube" src="image/megaminx-CO/cube.png" alt="logo">
+                <p>CO</p>
+            </a>
+            <a href="megaminx-EP.html">
+                <img id="cube" src="image/megaminx-EP/cube.png" alt="logo">
+                <p>EP</p>
+            </a>
+            <a href="megaminx-CP.html">
+                <img id="cube" src="image/megaminx-CP/cube.png" alt="logo">
+                <p>CP</p>
+            </a>
+        </div>
+        <hr>
+        <div>
+            <h2>Method</h2>
+            <h3>Beginner</h3>
+            <p>Beginner consists of 7 steps:</p>
+            <ol>
+                <li>Star</li>
+                <li>F2L</li>
+                <li>S2L</li>
+                <li>EO (Edge Orientation)<div class="alg">[3 alg]</div></li>
+                <li>CO (Corner Orientation)<div class="alg">[16 alg]</div></li>
+                <li>EP (Edge Permutation)<div class="alg">[5 alg]</div></li>
+                <li>CP (Corner Permutation)<div class="alg">[15 alg]</div></li>
+            </ol>
+            <div class="step" id="Beginner-mega"></div>
+        </div>
+        <hr>
+        <div>
+            <h2>Notation</h2>
+            <p>There are 4 basic moves, and 2 useful moves.</p>
+            <div class="notation" id="megaminx"></div>
+        </div>        
+    </main>
+    <div id="footer"></div>
+</body>
+</html>
