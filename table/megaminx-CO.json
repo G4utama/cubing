@@ -1,0 +1,82 @@
+[
+    {
+        "name": "01",
+        "image": "image/megaminx-CO/CO01.png",
+        "algorithm": "R U R' U R U R' U2' R U' R'"
+    },
+    {
+        "name": "02",
+        "image": "image/megaminx-CO/CO02.png",
+        "algorithm": "F R U2 R' U' R U' R' F'"
+    },
+    {
+        "name": "03",
+        "image": "image/megaminx-CO/CO03.png",
+        "algorithm": "R U2 R' U R U2 R'"
+    },
+    {
+        "name": "04",
+        "image": "image/megaminx-CO/CO04.png",
+        "algorithm": "R U R' U' R' F R U R U' R' F'"
+    },
+    {
+        "name": "05",
+        "image": "image/megaminx-CO/CO05.png",
+        "algorithm": "R U R' U R U2' R'"
+    },
+    {
+        "name": "06",
+        "image": "image/megaminx-CO/CO06.png",
+        "algorithm": "L' U' L U' L' U2 L"
+    },
+    {
+        "name": "07",
+        "image": "image/megaminx-CO/CO07.png",
+        "algorithm": "R U2 R' U' R U' R'"
+    },
+    {
+        "name": "08",
+        "image": "image/megaminx-CO/CO08.png",
+        "algorithm": "L' U2' L U L' U L"
+    },
+    {
+        "name": "09",
+        "image": "image/megaminx-CO/CO09.png",
+        "algorithm": "R U2 R' U' R U R' U' R U' R'"
+    },
+    {
+        "name": "10",
+        "image": "image/megaminx-CO/CO10.png",
+        "algorithm": "R U R' U R U' R' U R U2' R'"
+    },
+    {
+        "name": "11",
+        "image": "image/megaminx-CO/CO11.png",
+        "algorithm": "R U R' U R U R' U' R U2' R'"
+    },
+    {
+        "name": "12",
+        "image": "image/megaminx-CO/CO12.png",
+        "algorithm": "R U2 R' U' R U' R2' U' R U' R' U2 R"
+    },
+    {
+        "name": "13",
+        "image": "image/megaminx-CO/CO13.png",
+        "algorithm": "R U2 R2' U' R2 U' R2' U2 R"
+    },
+    {
+        "name": "14",
+        "image": "image/megaminx-CO/CO14.png",
+        "algorithm": "R' U2' R2 U R2' U R2 U2' R'"
+    },
+    {
+        "name": "15",
+        "image": "image/megaminx-CO/CO15.png",
+        "algorithm": "R U R' U2 R U2' R' U R U2' R'"
+    },
+    {
+        "name": "16",
+        "image": "image/megaminx-CO/CO16.png",
+        "algorithm": "R U2 R' U' R U2 R' U2' R U' R'"
+    }
+]
