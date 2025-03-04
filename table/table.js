@@ -7,6 +7,7 @@ const tableData = {
     '_megaminx-EO': 'table/megaminx-EO.json',
     '_megaminx-CO': 'table/megaminx-CO.json',
     '_megaminx-EP': 'table/megaminx-EP.json',
+    '_megaminx-CP': 'table/megaminx-CP.json',
     '_pyra-L3C': 'table/pyra-L3C.json',
     '_pyra-L3E': 'table/pyra-L3E.json',
     '_skewb-LL': 'table/skewb-LL.json',

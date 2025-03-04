@@ -1,0 +1,77 @@
+[
+    {
+        "name": "01",
+        "image": "image/megaminx-CP/CP01.png",
+        "algorithm": "R' BR' R BR R' F' R BR' R' BR F R"
+    },
+    {
+        "name": "02",
+        "image": "image/megaminx-CP/CP02.png",
+        "algorithm": "R' F' BR' R BR R' F R BR' R' BR R"
+    },
+    {
+        "name": "03",
+        "image": "image/megaminx-CP/CP03.png",
+        "algorithm": "BR' R' U L U' R' U L' U' R2 BR"
+    },
+    {
+        "name": "04",
+        "image": "image/megaminx-CP/CP04.png",
+        "algorithm": "BR' R2' U L U' R U L' U' R BR"
+    },
+    {
+        "name": "05",
+        "image": "image/megaminx-CP/CP05.png",
+        "algorithm": "L' R U2 R' U' R U R' U' R U R' U' R U' R' L"
+    },
+    {
+        "name": "06",
+        "image": "image/megaminx-CP/CP06.png",
+        "algorithm": "R U R' U R' U' R F' R U R' U' R' F R2 U' R2' U R U'"
+    },
+    {
+        "name": "07",
+        "image": "image/megaminx-CP/CP07.png",
+        "algorithm": "R2 U R' U' y R U R' U' R U R' U' R U R' y' R U' R2'"
+    },
+    {
+        "name": "08",
+        "image": "image/megaminx-CP/CP08.png",
+        "algorithm": "F R U2 R' U' R U' R' F' R' y' R' U' R U' R' U2 R BR U'"
+    },
+    {
+        "name": "09",
+        "image": "image/megaminx-CP/CP09.png",
+        "algorithm": "R U R' U R' U' R2 U' R' U R' U R U R U R' U R' U' R2 U' R' U R' U R U"
+    },
+    {
+        "name": "10",
+        "image": "image/megaminx-CP/CP10.png",
+        "algorithm": "R2 U2 R2' U' R2 U' R2' y' R2' U' R2 U' R2' U2 R2 U'"
+    },
+    {
+        "name": "11",
+        "image": "image/megaminx-CP/CP11.png",
+        "algorithm": "R2' U2' R2 U R2' U R2 y R2 U R2' U R2 U2' R2' U"
+    },
+    {
+        "name": "12",
+        "image": "image/megaminx-CP/CP12.png",
+        "algorithm": "R2 U2' R2' U' R2 U2' R' U R' U' R' F R2 U' R' U' R U R' F'"
+    },
+    {
+        "name": "13",
+        "image": "image/megaminx-CP/CP13.png",
+        "algorithm": "R' U2 R U' R' U2 R U2' R' U' R U2' R' U R U2' R' U R"
+    },
+    {
+        "name": "14",
+        "image": "image/megaminx-CP/CP14.png",
+        "algorithm": "R2 U2' R2' U' R2 U R2' U' R2 U R2' U' R2 U2' R2'"
+    },
+    {
+        "name": "15",
+        "image": "image/megaminx-CP/CP15.png",
+        "algorithm": "R2 U2 R2' U R2 U' R2' U R2 U' R2' U R2 U2 R2'"
+    }
+]
