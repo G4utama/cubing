@@ -1,0 +1,62 @@
+[
+    {
+		"image": "image/megaminx/method/scrambled.png",
+		"step": "R++ D-- R-- D-- R-- D-- R++ D++ R-- D-- U' R-- D++ R++ D++ R++ D++ R-- D-- R-- D-- U' R-- D++ R-- D++ R++ D-- R-- D-- R++ D++ U R++ D++ R-- D++ R-- D-- R-- D++ R-- D-- U' R-- D-- R++ D-- R-- D++ R++ D++ R-- D-- U' R++ D++ R-- D-- R-- D-- R-- D++ R-- D++ U R++ D-- R-- D++ R-- D++ R++ D-- R++ D-- U'"
+    },
+    {
+		"image": "image/right.png",
+		"step": "star"
+    },
+	{
+		"image": "image/megaminx/method/star-F2L.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "F2L"
+    },
+	{
+		"image": "image/megaminx/method/F2L-S2L.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "S2L"
+    },
+	{
+		"image": "image/megaminx/method/S2L-EO.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "EO"
+    },
+	{
+		"image": "image/megaminx/method/EO-CO.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "CO"
+    },
+	{
+		"image": "image/megaminx/method/CO-EP.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "EP"
+    },
+	{
+		"image": "image/megaminx/method/EP-CP.png",
+		"step": ""
+    },
+    {
+		"image": "image/right.png",
+		"step": "CP"
+    },
+	{
+		"image": "image/megaminx/method/solved.png",
+		"step": ""
+    }
+]

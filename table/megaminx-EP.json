@@ -1,0 +1,27 @@
+[
+    {
+        "name": "01",
+        "image": "image/megaminx-EP/EP01.png",
+        "algorithm": "R2 U2' R2' U' R2 U2' R2'"
+    },
+    {
+        "name": "02",
+        "image": "image/megaminx-EP/EP02.png",
+        "algorithm": "R2 U2 R2' U R2 U2 R2'"
+    },
+    {
+        "name": "03",
+        "image": "image/megaminx-EP/EP03.png",
+        "algorithm": "R U R' F' R U R' U' R' F R2 U' R'"
+    },
+    {
+        "name": "04",
+        "image": "image/megaminx-EP/EP04.png",
+        "algorithm": "R U R' U R' U' R2 U' R' U R' U R U2'"
+    },
+    {
+        "name": "05",
+        "image": "image/megaminx-EP/EP05.png",
+        "algorithm": "L R U2 L' U R' L U' R U2 L' U2 R'"
+    }
+]

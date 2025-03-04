@@ -1,0 +1,17 @@
+[
+    {
+        "name": "01",
+        "image": "image/megaminx-EO/EO01.png",
+        "algorithm": "F R U R' U' F'"
+    },
+    {
+        "name": "02",
+        "image": "image/megaminx-EO/EO02.png",
+        "algorithm": "F U R U' R' F'"
+    },
+    {
+        "name": "03",
+        "image": "image/megaminx-EO/EO03.png",
+        "algorithm": "F R U R' U' F' U2 F U R U' R' F'"
+    }
+]
