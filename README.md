@@ -6,12 +6,17 @@ Site with cube algorithms. For now contains:
 │   ├── OLL
 │   ├── PLL
 │   ├── COLL
+│   ├── OH OLL
 │   └── OH PLL
 ├── 2x2
 │   ├── OLL
-│   └── PBL
+│   ├── PBL
+│   ├── CLL *
+│   ├── EG1 *
+│   └── EG2 *
 ├── 4x4
-│   └── OLL
+│   ├── OLL
+│   └── PLL *
 ├── Megaminx
 │   ├── EO
 │   ├── CO
@@ -26,6 +31,8 @@ Site with cube algorithms. For now contains:
 └── Square-1
     ├── CP+DF
     └── PLL
+
+* TODO
 ```
 
 Every image in the site is made by me in pixeal art.
