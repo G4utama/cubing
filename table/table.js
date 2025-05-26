@@ -2,6 +2,7 @@ const tableData = {
     '_3x3-OLL': 'table/3x3-OLL.json',
     '_3x3-PLL': 'table/3x3-PLL.json',
     '_3x3-COLL': 'table/3x3-COLL.json',
+    '_3x3-OH-OLL': 'table/3x3-OH-OLL.json',
     '_3x3-OH-PLL': 'table/3x3-OH-PLL.json',
     '_2x2-OLL': 'table/2x2-OLL.json',
     '_4x4-OLL': 'table/4x4-OLL.json',

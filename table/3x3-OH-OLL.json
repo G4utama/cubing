@@ -1,0 +1,287 @@
+[
+    {
+        "name": "01",
+        "image": "image/3x3-OLL/01.png",
+        "algorithm": "R U2 R' (R' F R F') U2 (R' F R F')"
+    },
+    {
+        "name": "02",
+        "image": "image/3x3-OLL/02.png",
+        "algorithm": "F (R U R' U') F' U2 F (U R U' R') F'"
+    },
+    {
+        "name": "03",
+        "image": "image/3x3-OLL/03.png",
+        "algorithm": "[y2] F (U R U' R') F' U F (R U R' U') F'"
+    },
+    {
+        "name": "04",
+        "image": "image/3x3-OLL/04.png",
+        "algorithm": "[y2] F (U R U' R') F' U' F (R U R' U') F'"
+    },
+    {
+        "name": "05",
+        "image": "image/3x3-OLL/05.png",
+        "algorithm": "r' U2 R U R' U r"
+    },
+    {
+        "name": "06",
+        "image": "image/3x3-OLL/06.png",
+        "algorithm": "r U2 R' U' R U' r'"
+    },
+    {
+        "name": "07",
+        "image": "image/3x3-OLL/07.png",
+        "algorithm": "r U R' U R U2 r'"
+    },
+    {
+        "name": "08",
+        "image": "image/3x3-OLL/08.png",
+        "algorithm": "r' U' R U' R' U2 r"
+    },
+    {
+        "name": "09",
+        "image": "image/3x3-OLL/09.png",
+        "algorithm": "[y2] R U R' U' R' F R2 U R' U' F'"
+    },
+    {
+        "name": "10",
+        "image": "image/3x3-OLL/10.png",
+        "algorithm": "[y2] r U R' U R U' R' U' r' R U R U' R'"
+    },
+    {
+        "name": "11",
+        "image": "image/3x3-OLL/11.png",
+        "algorithm": "r U R' U R' F R F' R U2 r'"
+    },
+    {
+        "name": "12",
+        "image": "image/3x3-OLL/12.png",
+        "algorithm": "r R2 U' R U' R' U2 R U' r' R"
+    },
+    {
+        "name": "13",
+        "image": "image/3x3-OLL/13.png",
+        "algorithm": "F U R U' R2 F' R U R U' R'"
+    },
+    {
+        "name": "14",
+        "image": "image/3x3-OLL/14.png",
+        "algorithm": "R' F R U R' F' R y' R U' R'"
+    },
+    {
+        "name": "15",
+        "image": "image/3x3-OLL/15.png",
+        "algorithm": "[y2] r' U' R' r U' R U r' U r"
+    },
+    {
+        "name": "16",
+        "image": "image/3x3-OLL/16.png",
+        "algorithm": "(r U r') (R U R' U') (r U' r')"
+    },
+    {
+        "name": "17",
+        "image": "image/3x3-OLL/17.png",
+        "algorithm": "(R U R' U) (R' F R F') U2 (R' F R F')"
+    },
+    {
+        "name": "18",    
+        "image": "image/3x3-OLL/18.png",
+        "algorithm": "(r U R' U R U2 r') (r' U' R U' R' U2 r)"
+    },
+    {
+        "name": "19",
+        "image": "image/3x3-OLL/19.png",
+        "algorithm": "[y2] r U2 R' U' R U' r2 U2 R U R' U r"
+    },
+    {
+        "name": "20",
+        "image": "image/3x3-OLL/20.png",
+        "algorithm": "r U R' U' r2 R2 U R U' R' U' R' r"
+    },
+    {
+        "name": "21",
+        "image": "image/3x3-OLL/21.png",
+        "algorithm": "R U R' U R U' R' U R U2 R'"
+    },
+    {
+        "name": "22",
+        "image": "image/3x3-OLL/22.png",
+        "algorithm": "R U R' U R U2 R' U' R U R' U R U2 R'"
+    },
+    {
+        "name": "23",    
+        "image": "image/3x3-OLL/23.png",
+        "algorithm": "[y] (R U2 R' U' R U' R') U' (R U R' U R U2 R')"
+    },
+    {
+        "name": "24",
+        "image": "image/3x3-OLL/24.png",
+        "algorithm": "(R U R' U') L' (U R U' R') L"
+    },
+    {
+        "name": "25",
+        "image": "image/3x3-OLL/25.png",
+        "algorithm": "F' (R U R' U') L' (U R U' R') L F"
+    },
+    {
+        "name": "26",
+        "image": "image/3x3-OLL/26.png",
+        "algorithm": "R U2 R' U' R U' R'"
+    },
+    {
+        "name": "27",
+        "image": "image/3x3-OLL/27.png",
+        "algorithm": "R U R' U R U2 R'"
+    },
+    {
+        "name": "28",
+        "image": "image/3x3-OLL/28.png",
+        "algorithm": "r U R' U' r' R (U R U' R')"
+    },
+    {
+        "name": "29",
+        "image": "image/3x3-OLL/29.png",
+        "algorithm": "R U R' U' R U' R' F' U' F R U R'"
+    },
+    {
+        "name": "30",
+        "image": "image/3x3-OLL/30.png",
+        "algorithm": "F U (R U2 R' U')2 F'"
+    },
+    {
+        "name": "31",    
+        "image": "image/3x3-OLL/31.png",
+        "algorithm": "R' U' F U R U' R' F' R"
+    },
+    {
+        "name": "32",
+        "image": "image/3x3-OLL/32.png",
+        "algorithm": "L U F' U' L' U L F L'"
+    },
+    {
+        "name": "33",
+        "image": "image/3x3-OLL/33.png",
+        "algorithm": "R U R' U' R' F R F'"
+    },
+    {
+        "name": "34",
+        "image": "image/3x3-OLL/34.png",
+        "algorithm": "R U R2 U' R' F R U R U' F'"
+    },
+    {
+        "name": "35",
+        "image": "image/3x3-OLL/35.png",
+        "algorithm": "(R U2 R') (R' F R F') (R U2 R')"
+    },
+    {
+        "name": "36",
+        "image": "image/3x3-OLL/36.png",
+        "algorithm": "L' U' L U' L' U L U L F' L' F"
+    },
+    {
+        "name": "37",
+        "image": "image/3x3-OLL/37.png",
+        "algorithm": "F R' F' R U R U' R'"
+    },
+    {
+        "name": "38",
+        "image": "image/3x3-OLL/38.png",
+        "algorithm": "R U R' U R U' R' U' R' F R F'"
+    },
+    {
+        "name": "39",    
+        "image": "image/3x3-OLL/39.png",
+        "algorithm": "r U' r' U' r y R U R' f'"
+    },
+    {
+        "name": "40",
+        "image": "image/3x3-OLL/40.png",
+        "algorithm": "R' F R U R' U' F' U R"
+    },
+    {
+        "name": "41",
+        "image": "image/3x3-OLL/41.png",
+        "algorithm": "(R U R' U R U2 R') F (R U R' U') F'"
+    },
+    {
+        "name": "42",
+        "image": "image/3x3-OLL/42.png",
+        "algorithm": "(R' U' R U' R' U2 R) F (R U R' U') F'"
+    },
+    {
+        "name": "43",
+        "image": "image/3x3-OLL/43.png",
+        "algorithm": "R' U' F R' F' R U R"
+    },
+    {
+        "name": "44",
+        "image": "image/3x3-OLL/44.png",
+        "algorithm": "F U R U' R' F'"
+    },
+    {
+        "name": "45",
+        "image": "image/3x3-OLL/45.png",
+        "algorithm": "F R U R' U' F'"
+    },
+    {
+        "name": "46",
+        "image": "image/3x3-OLL/46.png",
+        "algorithm": "R' U' R' F R F' U R"
+    },
+    {
+        "name": "47",
+        "image": "image/3x3-OLL/47.png",
+        "algorithm": "R' U' (R' F R F')2 U R"
+    },
+    {
+        "name": "48",
+        "image": "image/3x3-OLL/48.png",
+        "algorithm": "F (R U R' U')2 F'"
+    },
+    {
+        "name": "49",
+        "image": "image/3x3-OLL/49.png",
+        "algorithm": "r U' r2 U r2 U r2 U' r"
+    },
+    {
+        "name": "50",
+        "image": "image/3x3-OLL/50.png",
+        "algorithm": "r' U r2 U' r2 U' r2 U r'"
+    },
+    {
+        "name": "51",
+        "image": "image/3x3-OLL/51.png",
+        "algorithm": "F (U R U' R')2 F'"
+    },
+    {
+        "name": "52",
+        "image": "image/3x3-OLL/52.png",
+        "algorithm": "R U R' U R U' y R U' R' F'"
+    },
+    {
+        "name": "53",
+        "image": "image/3x3-OLL/53.png",
+        "algorithm": "[y2] r' U2 R U R' U' R U R' U r"
+    },
+    {
+        "name": "54",
+        "image": "image/3x3-OLL/54.png",
+        "algorithm": "r U2 R' U' R U R' U' R U' r'"
+    },
+    {
+        "name": "55",
+        "image": "image/3x3-OLL/55.png",
+        "algorithm": "R U2 R2 U' R U' R' U2 F R F'"
+    },
+    {
+        "name": "56",
+        "image": "image/3x3-OLL/56.png",
+        "algorithm": "(r' U' r) (U' R' U R)2 (r' U r)"
+    },
+    {
+        "name": "57",
+        "image": "image/3x3-OLL/57.png",
+        "algorithm": "(R U R' U') r R' U R U' r'"
+    }
+]
